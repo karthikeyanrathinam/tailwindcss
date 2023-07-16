@@ -1,0 +1,22 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "tailwindcss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikeyanrathinam/tailwindcss.git"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "karthikeyanrathinam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikeyanrathinam/tailwindcss/issues"
+  },
+  "homepage": "https://github.com/karthikeyanrathinam/tailwindcss#readme"
+}
